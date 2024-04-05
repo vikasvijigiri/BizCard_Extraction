@@ -24,7 +24,7 @@ The current version of the BizCard reader is compatible with images of the follo
 - **Introduction**: App characteristics
 - **Extraction**: From Drive
 - **Data Management**: Migration of the extracted data to MySQL (SQL)
-- **Data Visualization**: Plotly, pandas
+- **Data Visualization**: Pandas
 
 ## **Feedback**
 Please feel free to explore. Feedback is most welcome. For any comments, questions, or queries, contact the UI developer **[Vikas](mailto:vikki.4me@gmail.com)**. Thank you!
