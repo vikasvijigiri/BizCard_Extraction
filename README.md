@@ -5,13 +5,13 @@ To extract text from business card image(s). Store it in the MySQL local server.
 The data is collected from a [Google Drive source](https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp) with five+ business card templates.
 
 ## Data Categorization
-The textual data typically has information of the **
+The textual data typically has information of the 
 - 'name of the business/person',
 - 'designation',
 - 'phone numbers',
 - 'email Id',
 - 'website',
-- 'address'**.
+- 'address'.
 After the extraction, the UI has an option to either save or discard the same in MySQL database server.
 
 ## Supported Images
