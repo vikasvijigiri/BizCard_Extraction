@@ -6,12 +6,12 @@ The data is collected from a [Google Drive source](https://drive.google.com/driv
 
 ## Data Categorization
 The textual data typically has information of the 
-- 'name of the business/person',
-- 'designation',
-- 'phone numbers',
-- 'email Id',
-- 'website',
-- 'address'.
+    <span style="color:#4b7bec">'Name of the business/person'</span>
+    <span style="color:#fc5c65">'Designation'</span>
+    <span style="color:#45aaf2">'Phone numbers'</span>
+    <span style="color:#fed330">'Email Id'</span>
+    <span style="color:#a55eea">'Website'</span>
+    <span style="color:#1dd1a1">'Address'</span>
 After the extraction, the UI has an option to either save or discard the same in MySQL database server.
 
 ## Supported Images
