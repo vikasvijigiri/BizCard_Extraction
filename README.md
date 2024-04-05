@@ -15,7 +15,9 @@ The textual data typically includes information such as:
 
 ## Prerequisites
 Run the following command to install all required packages.
-- pip install -r requirements.txt
+- To run:
+  ```bash
+  pip install -r requirements.txt
 
 After extraction, the UI provides an option to either save or discard the data in the MySQL database server.
 
