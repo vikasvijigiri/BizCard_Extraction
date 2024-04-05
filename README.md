@@ -1,4 +1,5 @@
 # Aim
+To extract text from business card image(s). Store it in the MySQL local server. Display extracted data using pandas. 
 
 ## Data Collection
 The data is collected from a [Google Drive source](https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp) with five+ business card templates.
